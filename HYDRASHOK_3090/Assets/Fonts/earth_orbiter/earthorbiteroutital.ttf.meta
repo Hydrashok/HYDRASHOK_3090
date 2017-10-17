@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 33193dc900b3a7a4f9d36c5b9f2d0ced
+timeCreated: 1508279966
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Earth Orbiter Outline Italic
+  fontNames:
+  - Earth Orbiter Outline Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

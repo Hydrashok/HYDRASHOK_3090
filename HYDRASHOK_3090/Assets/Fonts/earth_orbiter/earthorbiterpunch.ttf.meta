@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ac5589a5f9a71314da4919f4e684b462
+timeCreated: 1508279967
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Earth Orbiter Punch
+  fontNames:
+  - Earth Orbiter Punch
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

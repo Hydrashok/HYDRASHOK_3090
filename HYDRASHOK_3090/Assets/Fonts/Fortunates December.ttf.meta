@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 72f895f1f33f7494fa287a50248ad61a
+timeCreated: 1508279967
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fortunates December
+  fontNames:
+  - Fortunates December
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

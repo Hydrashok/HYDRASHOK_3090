@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ef3418b5bc042d47b50efa5f05af9ef
+timeCreated: 1507247893
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - explode: {fileID: 8300000, guid: e14db8c0aa771264d8016641d9ae0ea1, type: 3}
+  - playerLaser: {fileID: 8300000, guid: 1fcc0ccba16a3294da1b729338bdbf51, type: 3}
+  - projectile: {fileID: 1762766990138442, guid: 4fd1efcdf9f28ae43b1f5cf27f76ebe4,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

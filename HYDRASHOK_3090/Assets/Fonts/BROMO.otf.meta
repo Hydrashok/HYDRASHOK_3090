@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4c2a9cb2194403d40b3eeffc6429a018
+timeCreated: 1508279966
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BROMO
+  fontNames:
+  - BROMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
