@@ -55,13 +55,13 @@ MonoBehaviour:
   sounds:
   - name: Title
     clip: {fileID: 8300000, guid: df6c8e3d791a73f40bc10474a3507ed5, type: 3}
-    volume: 0
+    volume: 0.5
     volumeVariance: 0
     loop: 0
     source: {fileID: 0}
   - name: BGM_01
     clip: {fileID: 8300000, guid: 31511039e5525c44aad49271321d5036, type: 3}
-    volume: 0
+    volume: 0.5
     volumeVariance: 0
     loop: 0
     source: {fileID: 0}

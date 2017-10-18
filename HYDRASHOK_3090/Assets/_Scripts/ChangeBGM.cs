@@ -12,11 +12,11 @@ public class ChangeBGM : MonoBehaviour
        
     {
         
-       if (SceneManager.GetActiveScene().name == "Start")
-       {           
+        if (SceneManager.GetActiveScene().name == "Start")
+        {           
            FindObjectOfType<MusicManager>().Play("Title");
             
-       }
+        }
 
         if (SceneManager.GetActiveScene().name == "Level_01")
         {
