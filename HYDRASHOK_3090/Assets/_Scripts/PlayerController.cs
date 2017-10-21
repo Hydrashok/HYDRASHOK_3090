@@ -31,8 +31,9 @@ public class PlayerController : MonoBehaviour
         Vector3 startPosition = transform.position + new Vector3(0, 0.7f, 0);
         GameObject beam = Instantiate(projectile, startPosition, Quaternion.identity) as GameObject;
         beam.GetComponent<Rigidbody2D>().velocity = new Vector3(0, projectileSpeed, 0);
-        // AudioSource.PlayClipAtPoint(playerLaser, transform.position);
-        FindObjectOfType<MusicManager>().Play("PlayerLaser");
+       // add fire sound
+
+
 
     }
 
@@ -66,10 +67,7 @@ public class PlayerController : MonoBehaviour
 
         transform.position = new Vector3(newX, transform.position.y, transform.position.z);
 
-        //if (EnemyBehaviour.breakableCount <= 0)
-        //    {
-         //   levelManager.LoadNextLevel();
-        //     }
+       
 
 
 
@@ -81,6 +79,8 @@ public class PlayerController : MonoBehaviour
 
     {
         Destroy(collider2D.gameObject);
+
+        // instantiate Flash and impact sound here
 
         
 
