@@ -7,6 +7,7 @@ public class LevelManager : MonoBehaviour
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   
 =======
    public MusicManager musicmanager;
@@ -14,6 +15,9 @@ public class LevelManager : MonoBehaviour
 =======
     
 >>>>>>> parent of b0af5df... working
+=======
+    
+>>>>>>> parent of c60eed0... Redoing audio Manager
 
     int i;
     
@@ -22,18 +26,22 @@ public class LevelManager : MonoBehaviour
        i = SceneManager.GetActiveScene().buildIndex;  // get scene by index
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         
 =======
         FindObjectOfType<MusicManager>().Play("Title");
 >>>>>>> c60eed0cc8641a1052e8cf8e8936b90038b3c709
 =======
 >>>>>>> parent of b0af5df... working
+=======
+>>>>>>> parent of c60eed0... Redoing audio Manager
     }
     
     public void LoadLevel(string name)
     {
 		Debug.Log ("New Level load: " + name);
         SceneManager.LoadSceneAsync(name);
+<<<<<<< HEAD
 <<<<<<< HEAD
         Debug.Log("New Level load: " + name);
 <<<<<<< HEAD
@@ -45,6 +53,9 @@ public class LevelManager : MonoBehaviour
 =======
 	}
 >>>>>>> parent of b0af5df... working
+=======
+	}
+>>>>>>> parent of c60eed0... Redoing audio Manager
 
     public void LoadNextLevel()
     {

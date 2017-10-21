@@ -114,6 +114,7 @@ NavMeshSettings:
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!224 &151329534 stripped
 RectTransform:
   m_PrefabParentObject: {fileID: 224578541067833032, guid: 5b4c3905c83eadb4f88713dfeeb10641,
@@ -121,6 +122,50 @@ RectTransform:
   m_PrefabInternal: {fileID: 1382352662}
 =======
 >>>>>>> c60eed0cc8641a1052e8cf8e8936b90038b3c709
+=======
+--- !u!1001 &43299726
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4550048866798764, guid: 1d5c59afdc5acb44d8dc2e90bb4c6bf3, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550048866798764, guid: 1d5c59afdc5acb44d8dc2e90bb4c6bf3, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550048866798764, guid: 1d5c59afdc5acb44d8dc2e90bb4c6bf3, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550048866798764, guid: 1d5c59afdc5acb44d8dc2e90bb4c6bf3, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550048866798764, guid: 1d5c59afdc5acb44d8dc2e90bb4c6bf3, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550048866798764, guid: 1d5c59afdc5acb44d8dc2e90bb4c6bf3, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550048866798764, guid: 1d5c59afdc5acb44d8dc2e90bb4c6bf3, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550048866798764, guid: 1d5c59afdc5acb44d8dc2e90bb4c6bf3, type: 2}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 1d5c59afdc5acb44d8dc2e90bb4c6bf3, type: 2}
+  m_IsPrefabParent: 0
+>>>>>>> parent of c60eed0... Redoing audio Manager
 --- !u!1 &350628682 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1605303751636748, guid: 9959c5e94a929db4fa6b892b3ea77b41,
@@ -371,7 +416,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+  m_RootOrder: 3
+>>>>>>> parent of c60eed0... Redoing audio Manager
   m_LocalEulerAnglesHint: {x: 116.065994, y: -97.15198, z: -64.76099}
 >>>>>>> c60eed0cc8641a1052e8cf8e8936b90038b3c709
 =======
