@@ -112,11 +112,14 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!224 &151329534 stripped
 RectTransform:
   m_PrefabParentObject: {fileID: 224578541067833032, guid: 5b4c3905c83eadb4f88713dfeeb10641,
     type: 2}
   m_PrefabInternal: {fileID: 1382352662}
+=======
+>>>>>>> c60eed0cc8641a1052e8cf8e8936b90038b3c709
 --- !u!1 &350628682 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1605303751636748, guid: 9959c5e94a929db4fa6b892b3ea77b41,
@@ -129,6 +132,7 @@ AudioListener:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 350628682}
   m_Enabled: 1
+<<<<<<< HEAD
 --- !u!1001 &684260299
 Prefab:
   m_ObjectHideFlags: 0
@@ -437,6 +441,8 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: fb68bcc18e8d3dd44af3b7642d7fc01a, type: 2}
   m_IsPrefabParent: 0
+=======
+>>>>>>> c60eed0cc8641a1052e8cf8e8936b90038b3c709
 --- !u!1001 &784745076
 Prefab:
   m_ObjectHideFlags: 0
@@ -584,6 +590,7 @@ Prefab:
 --- !u!1001 &1011208577
 Prefab:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 151329534}
@@ -647,6 +654,18 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c609ff1263f22a045a115cc9524ecdc7, type: 2}
   m_IsPrefabParent: 0
+=======
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1266209563}
+  m_LocalRotation: {x: 0.6866196, y: -0.034664173, z: 0.3496172, w: 0.6364902}
+  m_LocalPosition: {x: -8.28, y: 7.43, z: 7.99}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 116.065994, y: -97.15198, z: -64.76099}
+>>>>>>> c60eed0cc8641a1052e8cf8e8936b90038b3c709
 --- !u!1 &1377174014
 GameObject:
   m_ObjectHideFlags: 0
