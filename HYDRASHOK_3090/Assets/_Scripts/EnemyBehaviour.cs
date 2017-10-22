@@ -72,7 +72,7 @@ public class EnemyBehaviour : MonoBehaviour
         GameObject laser = Instantiate(enemyLaser1, startPosition, Quaternion.identity) as GameObject;
         laser.GetComponent<Rigidbody2D>().velocity = new Vector2(0f, -projectileSpeed);
         // AudioSource.PlayClipAtPoint(enemyLaserSound, transform.position);
-        FindObjectOfType<MusicManager>().Play("EnemyLaser");
+       //  FindObjectOfType<MusicManager>().Play("EnemyLaser");
     }
 
 
@@ -94,7 +94,7 @@ public class EnemyBehaviour : MonoBehaviour
                 // Destroy(gameObject);
                
 
-                FindObjectOfType<MusicManager>().Play("Explode");
+              //  FindObjectOfType<MusicManager>().Play("Explode");
                 scorekeeper.Score(scoreValue);
                 HandleHits();
             }

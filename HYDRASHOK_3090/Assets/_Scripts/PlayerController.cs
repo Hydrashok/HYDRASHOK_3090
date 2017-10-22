@@ -32,7 +32,7 @@ public class PlayerController : MonoBehaviour
         GameObject beam = Instantiate(projectile, startPosition, Quaternion.identity) as GameObject;
         beam.GetComponent<Rigidbody2D>().velocity = new Vector3(0, projectileSpeed, 0);
         // AudioSource.PlayClipAtPoint(playerLaser, transform.position);
-        FindObjectOfType<MusicManager>().Play("PlayerLaser");
+       // FindObjectOfType<MusicManager>().Play("PlayerLaser");
 
     }
 

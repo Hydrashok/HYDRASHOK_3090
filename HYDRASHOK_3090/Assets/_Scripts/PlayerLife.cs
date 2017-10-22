@@ -23,7 +23,7 @@ public class PlayerLife : MonoBehaviour
         {
             Instantiate(playerExplode, gameObject.transform.position, Quaternion.identity);
             
-            FindObjectOfType<MusicManager>().Play("Explode");
+          //  FindObjectOfType<MusicManager>().Play("Explode");
 
             Die();            
                      
