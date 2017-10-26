@@ -62,7 +62,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &1605623643928026
 GameObject:
   m_ObjectHideFlags: 0
@@ -116,9 +116,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1546295298366560}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 0.7065017, w: 0.7077114}
+  m_LocalPosition: {x: 3.49, y: -3, z: 10}
+  m_LocalScale: {x: 1.255471, y: 1.2554709, z: 1.2}
   m_Children:
   - {fileID: 4558454504131460}
   - {fileID: 4310979933732368}
@@ -126,7 +126,7 @@ Transform:
   - {fileID: 4723297491004606}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 89.90201}
 --- !u!4 &4558454504131460
 Transform:
   m_ObjectHideFlags: 1
@@ -237,7 +237,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -1279594575
+  randomSeed: -1980501443
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -365,8 +365,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.90000004
-      minScalar: 0.3375
+      scalar: 0.50625
+      minScalar: 0.18984376
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -621,14 +621,14 @@ ParticleSystem:
     serializedVersion: 5
     enabled: 1
     type: 5
-    angle: 56.25
+    angle: 31.640625
     length: 5
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 1
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
-    m_Scale: {x: 6.5, y: 14, z: 5}
+    m_Scale: {x: 3.65625, y: 7.875, z: 2.8125}
     placementMode: 0
     m_Mesh: {fileID: 0}
     m_MeshRenderer: {fileID: 0}
@@ -642,7 +642,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 2.25
+      value: 1.265625
       mode: 0
       spread: 0
       speed:
@@ -3440,7 +3440,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -1848256093
+  randomSeed: 1918190390
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -3568,8 +3568,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.022499999
-      minScalar: 0.112500004
+      scalar: 0.012656249
+      minScalar: 0.06328125
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -3824,14 +3824,14 @@ ParticleSystem:
     serializedVersion: 5
     enabled: 1
     type: 5
-    angle: 56.25
+    angle: 31.640625
     length: 5
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 1
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
-    m_Scale: {x: 6.5, y: 14, z: 5}
+    m_Scale: {x: 3.65625, y: 7.875, z: 2.8125}
     placementMode: 0
     m_Mesh: {fileID: 0}
     m_MeshRenderer: {fileID: 0}
@@ -3845,7 +3845,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 2.25
+      value: 1.265625
       mode: 0
       spread: 0
       speed:
@@ -6631,7 +6631,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -1258433333
+  randomSeed: 1296076633
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -6771,8 +6771,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 3.375
-      minScalar: 1.8000001
+      scalar: 1.8984375
+      minScalar: 1.0125
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -6991,14 +6991,14 @@ ParticleSystem:
     serializedVersion: 5
     enabled: 1
     type: 5
-    angle: 56.25
+    angle: 31.640625
     length: 5
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 1
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
-    m_Scale: {x: 8, y: 14, z: 2}
+    m_Scale: {x: 4.5, y: 7.875, z: 1.125}
     placementMode: 0
     m_Mesh: {fileID: 0}
     m_MeshRenderer: {fileID: 0}
@@ -7012,7 +7012,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 2.25
+      value: 1.265625
       mode: 0
       spread: 0
       speed:
@@ -9792,7 +9792,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -837571108
+  randomSeed: -1398650240
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -9840,7 +9840,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 11.25
+      scalar: 6.328125
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -9932,7 +9932,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2.25
+      scalar: 1.265625
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -10212,14 +10212,14 @@ ParticleSystem:
     serializedVersion: 5
     enabled: 0
     type: 4
-    angle: 56.25
+    angle: 31.640625
     length: 5
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 1
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
-    m_Scale: {x: 1, y: 1, z: 1}
+    m_Scale: {x: 0.5625, y: 0.5625, z: 0.5625}
     placementMode: 0
     m_Mesh: {fileID: 0}
     m_MeshRenderer: {fileID: 0}
@@ -10233,7 +10233,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 2.25
+      value: 1.265625
       mode: 0
       spread: 0
       speed:
@@ -13013,7 +13013,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: 151102029
+  randomSeed: 1758733431
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -13153,8 +13153,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 3.375
-      minScalar: 1.8000001
+      scalar: 1.8984375
+      minScalar: 1.0125
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -13373,14 +13373,14 @@ ParticleSystem:
     serializedVersion: 5
     enabled: 1
     type: 5
-    angle: 56.25
+    angle: 31.640625
     length: 5
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 1
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
-    m_Scale: {x: 8, y: 14, z: 2}
+    m_Scale: {x: 4.5, y: 7.875, z: 1.125}
     placementMode: 0
     m_Mesh: {fileID: 0}
     m_MeshRenderer: {fileID: 0}
@@ -13394,7 +13394,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 2.25
+      value: 1.265625
       mode: 0
       spread: 0
       speed:

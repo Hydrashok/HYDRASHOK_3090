@@ -10,7 +10,7 @@ public class LevelManager : MonoBehaviour
     public void Start()
     {
        i = SceneManager.GetActiveScene().buildIndex;  // get scene by index
-           
+        MusicCheck();  
     }
     
     public void LoadLevel(string name)
@@ -31,7 +31,15 @@ public class LevelManager : MonoBehaviour
 	}
 
 
-   
+   public void MusicCheck()
+    {
+        if (i == 0)
+        {
+            AudioController.Play("Title");
+        }
+
+        else AudioController.Play("BGM_01");
+    }
 
 
 

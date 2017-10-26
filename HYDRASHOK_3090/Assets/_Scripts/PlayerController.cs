@@ -9,10 +9,10 @@ public class PlayerController : MonoBehaviour
    // private LevelManager levelManager;
     public GameObject projectile;
     public float speed = 15.0f;
-    public float padding = 1;
+    public float padding = 0f;
     public float projectileSpeed;
-    float xmin = -6;
-    float xmax = 6;
+    float xmin = -7;
+    float xmax = 7;
     public float fireRate = 0.2f;
 
     void Start()
